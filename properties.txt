@@ -1,0 +1,2 @@
+specialSymbols:false
+longPassword:false
